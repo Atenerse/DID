@@ -12,16 +12,7 @@
   (2) LID调研PPT\
       Data: 20181121
 
-2. LID System\
-  (Dateset: ap17-olr)
-  
-  System 1：ivector
-
-  System 2: SVM
-
-  System 3: 
-
-3. DID System\
+2.  DID System\
   (Dataset: iflytek)
   
   System 1：ivector
